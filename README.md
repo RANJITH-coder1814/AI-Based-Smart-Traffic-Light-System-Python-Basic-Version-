@@ -1,0 +1,2 @@
+# AI-Based-Smart-Traffic-Light-System-Python-Basic-Version-
+AI-Based Smart Traffic Light System is a basic Python project that simulates an intelligent traffic signal system. The system adjusts green light timing dynamically based on vehicle density detected from an image or simulated input. This helps reduce traffic congestion and waiting time compared to traditional fixed-timer traffic lights.  
